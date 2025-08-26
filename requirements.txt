@@ -1,0 +1,11 @@
+#How to run this project
+
+#Create virtual env for python
+#- python3 -m venv myenv
+#- source venv myenv
+#- python -m venv --upgrade /path/to/your/venv (optional)
+#- pip install streamlit, pulp
+#- streamlit run app.py
+
+streamlit
+pulp
