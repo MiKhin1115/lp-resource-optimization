@@ -6,3 +6,6 @@ Create virtual env for python
 - python -m venv --upgrade /path/to/your/venv (optional)
 - pip install streamlit, pulp
 - streamlit run app.py
+
+streamlit
+pulp
